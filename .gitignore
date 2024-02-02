@@ -38,3 +38,26 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+.browserslistrc 2
+.gitattributes 2
+.gitignore 2
+.ruby-version 2
+babel.config 2
+/app 2
+/bin 2
+/config 2
+config 2.ru
+/db 2
+Gemfile 2
+/lib 2
+/log 2
+/node_modules 2
+package 2
+postcss.config 2
+/public 2
+Rakefile 2
+README 2
+/storage 2
+/test 2
+/vendor 2
