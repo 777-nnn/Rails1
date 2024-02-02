@@ -8,6 +8,7 @@ class CreatePosts < ActiveRecord::Migration[6.1]
       t.string :schedule_memo
 
       t.timestamps
+      
     end
   end
 end

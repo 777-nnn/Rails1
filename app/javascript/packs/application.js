@@ -11,6 +11,7 @@ import "channels"
 import "bootstrap";
 import "../stylesheets/application.scss";
 
+
 //= require data-confirm-modal
 
 Rails.start()

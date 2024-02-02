@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 2024_01_31_123000) do
     t.string "schedule_memo"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    
   end
 
 end
